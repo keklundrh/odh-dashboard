@@ -11,7 +11,7 @@ spec:
   route: ''
   img: images/starburst.svg
   docsLink: 
-  category: Partner Cloud Service
+  category: Partner Managed Add-on
   support: third party support
   quickStart: ''
   getStartedLink: https://www.starburst.io
