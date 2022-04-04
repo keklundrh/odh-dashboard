@@ -1,0 +1,20 @@
+metadata:
+  name: starburst
+  annotations:
+    opendatahub.io/categories: 'Data management,Python,Cloud Service'
+spec:
+  displayName: Starburst Cloud Service
+  provider: Starburst
+  description: |-
+    A fully managed service to run high-performance SQL queries across your various data sources. It is proactively managed and monitored by Starburst.
+  kfdefApplications: []
+  route: ''
+  img: images/starburst.svg
+  docsLink: 
+  category: Partner Cloud Service
+  support: third party support
+  quickStart: ''
+  getStartedLink: https://www.starburst.io
+  beta: false
+  betaText: ''
+
