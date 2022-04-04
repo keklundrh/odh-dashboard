@@ -13,4 +13,5 @@ Starburst's Cloud Service is an add-on to your OpenShift Dedicated environment a
 * Support: 24x7 support from the Trino experts; in a fully-managed environment.
 * Get started in a matter of minutes: Starburst Galaxy improves the time to value in your data and analytics.
 
-
+## Subscribe to the operator on Marketplace
+INSERT_LINK_HERE
