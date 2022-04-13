@@ -14,4 +14,4 @@ Starburst's Cloud Service is an add-on to your OpenShift Dedicated environment a
 * Get started in a matter of minutes: Starburst Galaxy improves the time to value in your data and analytics.
 
 ## Subscribe to the operator on Marketplace
-INSERT_LINK_HERE
+[View and subscribe on Red Hat Marketplace(https://marketplace.redhat.com/en-us/products/starburst-enterprise)
